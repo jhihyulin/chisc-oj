@@ -1,3 +1,3 @@
 # chisc-oj
 
-[chiscoj.com](https://chiscoj.com "chiscoj.com")
+[chiscoj.com](https://chiscoj.com)
