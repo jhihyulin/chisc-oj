@@ -1,0 +1,1 @@
+print('Give me',input(),'chocolate')
